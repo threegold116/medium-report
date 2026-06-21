@@ -24,4 +24,5 @@
 *.toc
 *.toe
 *.xdv
+.vscode/
 report.pdf
