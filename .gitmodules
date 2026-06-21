@@ -1,0 +1,3 @@
+[submodule "hithesis"]
+	path = hithesis
+	url = https://github.com/hithesis/hithesis/
